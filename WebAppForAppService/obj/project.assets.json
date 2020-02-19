@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Ajay\\Projects\\AppService\\WebAppForAppService\\WebAppForAppService.csproj",
+      "projectUniqueName": "C:\\Ajay\\Projects\\AppServices\\WebAppForAppService\\WebAppForAppService.csproj",
       "projectName": "WebAppForAppService",
-      "projectPath": "C:\\Ajay\\Projects\\AppService\\WebAppForAppService\\WebAppForAppService.csproj",
+      "projectPath": "C:\\Ajay\\Projects\\AppServices\\WebAppForAppService\\WebAppForAppService.csproj",
       "packagesPath": "C:\\Users\\ajayvyas\\.nuget\\packages\\",
-      "outputPath": "C:\\Ajay\\Projects\\AppService\\WebAppForAppService\\obj\\",
+      "outputPath": "C:\\Ajay\\Projects\\AppServices\\WebAppForAppService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
